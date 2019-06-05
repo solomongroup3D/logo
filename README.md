@@ -2,4 +2,4 @@
 
 Hi!
 
-Made this to experienment with AR Development.
+Made this to experienment with AR 3D models uploading from a QR code.
